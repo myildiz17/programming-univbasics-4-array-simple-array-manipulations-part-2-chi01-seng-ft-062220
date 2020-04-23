@@ -19,5 +19,5 @@ def using_delete(array1,element)
 end
 
 def using_delete_at(array1,element)
-  array1.delete(element)
+  array1.delete_at(element)
 end
